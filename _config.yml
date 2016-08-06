@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Dan Cunnington
 
 description: Stylish Jekyll Theme
 author:
@@ -22,7 +22,7 @@ author:
   email: dancunnington@hotmail.co.uk
   github: dancunnington
   twitter: dancunnington
-  linkedin: dancunnington
+  linkedin: dan-cunnington-94b0127b
   bio: Software Developer
   email_md5: c0857ace6100aad81df7bcff29aca42c
 
@@ -31,7 +31,9 @@ tags_path: tags.html
 categories_path: categories.html
 
 # set it as url of an image
-# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+#sidebar_background_image: assets/media/bg.JPG
+
+url: http://dancunnington.github.io/
 
 BASE_PATH:
 
