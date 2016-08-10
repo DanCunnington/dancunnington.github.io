@@ -18,4 +18,4 @@ Over the weekend of 17th-19th June, IBMers from across the business came togethe
 
 ## More Details
 
-[Read our DevPost submission](https://www.youtube.com/watch?v=tDN4te70CbI)
+[Read our DevPost submission](http://devpost.com/software/lighthouse-52cxq8)
