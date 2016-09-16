@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Team LightHouse win RBS Hackathon
+title: Smarter Travel - Traffic Congestion Classification for Central London
 categories: [hackathon]
-tags: [rbs, hackathon, lighthouse]
-description: Team LightHouse win the RBS Hackathon in Edinburgh, giving financial independance back to the vulnerable
+tags: [smartertravel, hackathon, transportapi]
+description: The Smarter Travel Story. Learn how I built an app that classifys a traffic congestion in Central London.
 ---
 
 ![rbs pic]({{ site.url }}/assets/media/lhr.png)  
