@@ -11,4 +11,4 @@ description: The Smarter Travel Story. Learn how I built an app that classifys a
 
 ## The Smarter Travel Story
 
-Check out my blog article on [Developer Works](https://developer.ibm.com/bluemix/2016/08/25/identifying-congestion-london-using-ibm-bluemix-transport-api-tfl-ibm-watson-services/) relating to the work I've done on Smarter Travel.
+Check out my blog article on [Developer Works](https://www.ibm.com/blogs/bluemix/2016/09/identifying-congestion-in-london-using-bluemix-and-watson/) relating to the work I've done on Smarter Travel.
