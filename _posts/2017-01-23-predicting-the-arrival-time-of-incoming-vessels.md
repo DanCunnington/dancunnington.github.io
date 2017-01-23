@@ -35,7 +35,7 @@ Using this, we created a linear regression model in Python which aims to predict
 
 [http://dashport-predict.mybluemix.net/shipArrival/1462790000000/28.846888/30.749433/32.280201/33.334607/454.9419641/23/19.78](http://dashport-predict.mybluemix.net/shipArrival/1462790000000/28.846888/30.749433/32.280201/33.334607/454.9419641/23/19.78)
 
-The parameters are structured as follows:
+The parameters are structured like so:
 ```
 base_url/shipArrival/time/source_lat/source_lng/dest_lat/dest_lng/distance_to_dest/speed/time_to_dest
 ```
